@@ -1,6 +1,6 @@
 ## nodecitylights.js
 
-Node.js/ESM libraries written in TypeScript, created and developed by @neoncitylights.
+Node.js/ESM libraries written in JavaScript and TypeScript, created and developed by @neoncitylights.
 
 ### maintenance stability index
 The APIs of libraries are rated by an index to inform library consumers on what to expect of the software's stability.
