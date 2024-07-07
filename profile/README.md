@@ -6,7 +6,7 @@ Node.js/ESM libraries written in JavaScript and TypeScript, created and develope
 The APIs of libraries are rated by an index to inform library consumers on what to expect of the software's stability. 
 
 > [!IMPORTANT]
-> Libraries have not been rated yet but will be soon.
+> Not all libraries have been rated yet, but will be soon.
 
 - ![Maintenance Stability Index: Alpha](https://img.shields.io/badge/maintenance-alpha-FF4A1C?style=flat-square) This project is not yet subject to semantic versioning rules; the API may change at any moment.
 - ![Maintenance Stability Index: Beta](https://img.shields.io/badge/maintenance-beta-ff9900?style=flat-square) This project is also not yet subject to semantic versioning rules; but is slowly becoming more stable.
